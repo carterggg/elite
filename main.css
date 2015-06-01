@@ -1,0 +1,132 @@
+/* BASE */
+body {
+  background-image: url("images/layout/background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: "bebas_neueregular"; }
+
+h1 {
+  font-family: "bebas_neueregular"; }
+
+/* unvisited link */
+a:link {
+  text-decoration: none; }
+
+/* visited link */
+a:visited {
+  text-decoration: none; }
+
+/* mouse over link */
+a:hover {
+  text-decoration: none;
+  color: silver; }
+
+/* selected link */
+a:active {
+  text-decoration: none; }
+
+/* LAYOUT */
+.align-center {
+  margin: auto;
+  text-align: center; }
+
+.nav-border {
+  border-top: solid 7px black;
+  border-bottom: solid 7px black;
+  padding-bottom: 70px;
+  margin-top: 0px; }
+
+/* Nav Styles */
+li {
+  font-size: 40px; }
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  padding-top: 0px; }
+
+.main-nav,
+.drop-nav {
+  background: white; }
+
+.main-nav > li {
+  float: left; }
+
+.main-nav li:first-child {
+  border-left: none; }
+
+.main-nav a {
+  color: black;
+  display: block;
+  padding: 10px 30px;
+  text-decoration: none; }
+
+.dropdown {
+  position: relative; }
+
+.dropdown:after {
+  content: "\25BC";
+  font-size: .5em;
+  display: block;
+  position: absolute;
+  top: 35%;
+  right: 2%; }
+
+.drop-nav {
+  position: absolute;
+  display: none;
+  background-color: red; }
+
+.drop-nav li {
+  border-bottom: 1px solid red;
+  font-size: 30px; }
+
+.drop-nav li a {
+  color: white; }
+
+.dropdown:hover > .drop-nav {
+  display: block; }
+
+/* Video EMBed responsive code */
+.responsive-vid {
+  position: relative;
+  padding-bottom: 56.25%;
+  padding-top: 60px;
+  overflow: hidden; }
+
+.responsive-vid iframe,
+.responsive-vid object,
+.responsive-vid embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%; }
+
+/* END OF = Video EMBed responsive code */
+/* MODULE */
+/* STATE */
+/* THEME */
+/* FORM */
+input, textarea {
+  display: block;
+  margin-bottom: 15px;
+  width: 100%;
+  border: black solid 3px;
+  font-size: 2em;
+  color: black;
+  background-color: white; }
+
+label {
+  margin-bottom: 0px;
+  font-size: 1.5em; }
+
+.error {
+  color: white; }
+
+form {
+  width: 100%; }
+
+.val-style {
+  text-align: center; }
