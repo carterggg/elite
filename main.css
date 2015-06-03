@@ -6,7 +6,8 @@ body {
   font-family: "bebas_neueregular"; }
 
 h1 {
-  font-family: "bebas_neueregular"; }
+  font-family: "bebas_neueregular";
+  color: red; }
 
 /* unvisited link */
 a:link {
@@ -33,12 +34,16 @@ a:active {
 .nav-border {
   border-top: solid 7px black;
   border-bottom: solid 7px black;
-  padding-bottom: 70px;
-  margin-top: 0px; }
+  padding-bottom: 58px;
+  margin-top: 13px; }
+
+.layout-padding {
+  padding-left: 8px;
+  padding-top: 5px; }
 
 /* Nav Styles */
 li {
-  font-size: 40px; }
+  font-size: 45px; }
 
 ul {
   list-style: none;
@@ -56,10 +61,15 @@ ul {
 .main-nav li:first-child {
   border-left: none; }
 
+.main-nav a:hover {
+  background-color: red;
+  color: white; }
+
 .main-nav a {
   color: black;
   display: block;
-  padding: 10px 30px;
+  padding: 0px  34px;
+  padding-bottom: 0px;
   text-decoration: none; }
 
 .dropdown {
@@ -70,7 +80,7 @@ ul {
   font-size: .5em;
   display: block;
   position: absolute;
-  top: 35%;
+  top: 27%;
   right: 2%; }
 
 .drop-nav {
@@ -79,7 +89,7 @@ ul {
   background-color: red; }
 
 .drop-nav li {
-  border-bottom: 1px solid red;
+  border-bottom: 3px solid white;
   font-size: 30px; }
 
 .drop-nav li a {
@@ -87,6 +97,21 @@ ul {
 
 .dropdown:hover > .drop-nav {
   display: block; }
+
+.red-hover:hover a {
+  background-color: red;
+  color: white;
+  border-bottom: 4px solid white;
+  content: "\25BC"; }
+
+.network-style a {
+  float: left; }
+
+.network-style2 a {
+  float: right; }
+
+.red {
+  background-color: red; }
 
 /* Video EMBed responsive code */
 .responsive-vid {
