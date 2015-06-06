@@ -41,6 +41,45 @@ a:active {
   padding-left: 8px;
   padding-top: 5px; }
 
+.network-style a {
+  float: left; }
+
+.network-style2 a {
+  float: right; }
+
+.red {
+  background-color: red; }
+
+.title {
+  font-size: 40px; }
+
+.subtitle {
+  font-size: 30px;
+  color: black; }
+
+.subtitle a {
+  font-size: 30px;
+  color: black; }
+
+.subtitle a:hover {
+  color: red; }
+
+/* Slide Show Styles */
+#slideshow {
+  margin: auto;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  padding: 10px;
+  z-index: -10; }
+
+#slideshow > div {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  bottom: 10px; }
+
 /* Nav Styles */
 li {
   font-size: 45px; }
@@ -76,7 +115,6 @@ ul {
   position: relative; }
 
 .dropdown:after {
-  content: "\25BC";
   font-size: .5em;
   display: block;
   position: absolute;
@@ -89,7 +127,7 @@ ul {
   background-color: red; }
 
 .drop-nav li {
-  border-bottom: 3px solid white;
+  border-bottom: 1px solid white;
   font-size: 30px; }
 
 .drop-nav li a {
@@ -101,17 +139,10 @@ ul {
 .red-hover:hover a {
   background-color: red;
   color: white;
-  border-bottom: 4px solid white;
-  content: "\25BC"; }
+  border-bottom: 4px solid white; }
 
-.network-style a {
-  float: left; }
-
-.network-style2 a {
-  float: right; }
-
-.red {
-  background-color: red; }
+.drop-nav li a:hover {
+  background-color: darkred; }
 
 /* Video EMBed responsive code */
 .responsive-vid {

@@ -46,6 +46,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/hammer-todo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7615,
+		"inputAbbreviatedPath": "\/images\/layout\/hammer-todo.png",
+		"outputAbbreviatedPath": "\/images\/layout\/hammer-todo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -53,6 +64,50 @@
 		"initialSize": 5481,
 		"inputAbbreviatedPath": "\/images\/layout\/logo.png",
 		"outputAbbreviatedPath": "\/images\/layout\/logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/sample.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 871682,
+		"inputAbbreviatedPath": "\/images\/layout\/sample.png",
+		"outputAbbreviatedPath": "\/images\/layout\/sample.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/sample2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.69401e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/sample2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/sample2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/sample3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.0355e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/sample3.png",
+		"outputAbbreviatedPath": "\/images\/layout\/sample3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/services.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14317,
+		"inputAbbreviatedPath": "\/images\/layout\/services.png",
+		"outputAbbreviatedPath": "\/images\/layout\/services.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -115,15 +170,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/index2.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index2.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
