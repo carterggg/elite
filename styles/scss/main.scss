@@ -1,6 +1,9 @@
 $main-color: black;
 $main-color2: white;
 $main-font: 'bebas_neueregular';
+$main-font2: 'NK_Monotype Corsiva';
+$main-font3: 'alegreya_sansmedium';
+$main-font4: 'sinkin_sans600_semibold';
 
 
 /* BASE */ 
@@ -13,8 +16,12 @@ body {
 }
 
 h1 {
-	font-family: $main-font;
+	font-family: $main-font2;
 	color: red;
+}
+
+p {
+	font-family: $main-font4;
 }
 
 
@@ -77,11 +84,13 @@ a:active {
 
 .title{
 	font-size: 40px;
+	font-family: $main-font4;
 }
 
 .subtitle {
 	font-size: 30px;
 	color: $main-color;
+	font-family: $main-font4;
 }
  
 .subtitle a {
@@ -149,6 +158,10 @@ nav ul li {
 	color:$main-color2;
 }
 
+.maincontentlayout {
+    position: relative; 
+	z-index: -10;
+}
 
 /* Slide Show Styles */
 

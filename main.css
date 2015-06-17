@@ -6,8 +6,11 @@ body {
   font-family: "bebas_neueregular"; }
 
 h1 {
-  font-family: "bebas_neueregular";
+  font-family: "NK_Monotype Corsiva";
   color: red; }
+
+p {
+  font-family: "sinkin_sans600_semibold"; }
 
 /* unvisited link */
 a:link {
@@ -54,11 +57,13 @@ a:active {
   color: red; }
 
 .title {
-  font-size: 40px; }
+  font-size: 40px;
+  font-family: "sinkin_sans600_semibold"; }
 
 .subtitle {
   font-size: 30px;
-  color: black; }
+  color: black;
+  font-family: "sinkin_sans600_semibold"; }
 
 .subtitle a {
   font-size: 30px;
@@ -116,6 +121,10 @@ nav ul li {
 
 .nav-footer ul li a:hover {
   color: white; }
+
+.maincontentlayout {
+  position: relative;
+  z-index: -10; }
 
 /* Slide Show Styles */
 #slideshow {

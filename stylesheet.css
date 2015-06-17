@@ -14,3 +14,43 @@
     font-style: normal;
 
 }
+
+@font-face {
+    font-family: 'NK_Monotype Corsiva';
+    src: url('fonts/nk_mono.eot');
+    src: url('fonts/nk_mono.eot?#iefix') format('embedded-opentype'),
+         url('fonts/nk_mono.woff') format('woff'),
+         url('fonts/nk_mono.ttf') format('truetype'),
+         url('fonts/nk_mono.svg#NK_MonotypeCorsiva') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'alegreya_sansmedium';
+    src: url('fonts/alegreyasans-medium-webfont.eot');
+    src: url('fonts/alegreyasans-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/alegreyasans-medium-webfont.woff2') format('woff2'),
+         url('fonts/alegreyasans-medium-webfont.woff') format('woff'),
+         url('fonts/alegreyasans-medium-webfont.ttf') format('truetype'),
+         url('fonts/alegreyasans-medium-webfont.svg#alegreya_sansmedium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+@font-face {
+    font-family: 'sinkin_sans600_semibold';
+    src: url('fonts/sinkinsans-600semibold-webfont.eot');
+    src: url('fonts/sinkinsans-600semibold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/sinkinsans-600semibold-webfont.woff2') format('woff2'),
+         url('fonts/sinkinsans-600semibold-webfont.woff') format('woff'),
+         url('fonts/sinkinsans-600semibold-webfont.ttf') format('truetype'),
+         url('fonts/sinkinsans-600semibold-webfont.svg#sinkin_sans600_semibold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
