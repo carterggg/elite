@@ -11,15 +11,6 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/blank.html": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/blank.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/images\/documents\/elite-georiga-license-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -38,6 +29,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/documents\/elite-mold-license-01.jpg",
 		"outputAbbreviatedPath": "\/images\/documents\/elite-mold-license-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/comps-elite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14301,
+		"inputAbbreviatedPath": "\/images\/layout\/comps-elite.png",
+		"outputAbbreviatedPath": "\/images\/layout\/comps-elite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -130,6 +132,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/menu-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 304,
+		"inputAbbreviatedPath": "\/images\/layout\/menu-icon.png",
+		"outputAbbreviatedPath": "\/images\/layout\/menu-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/mirror.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -203,6 +216,50 @@
 		"initialSize": 2.0355e+06,
 		"inputAbbreviatedPath": "\/images\/layout\/sample3.png",
 		"outputAbbreviatedPath": "\/images\/layout\/sample3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/samplepics-30.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 273144,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-30.png",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-30.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/samplepics-31.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 470391,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-31.png",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-31.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/samplepics-32.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 594801,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-32.png",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-32.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/samplepics-33.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 837434,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-33.png",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-33.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

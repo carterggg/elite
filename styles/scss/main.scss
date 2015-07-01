@@ -12,7 +12,7 @@ body {
 	background-image: url("images/layout/background.jpg");
 	background-repeat: no-repeat;
 	background-size:cover;
-	font-family: $main-font;
+	font-family: $main-font4;
 }
 
 h1 {
@@ -53,13 +53,6 @@ a:active {
 	text-align: center;
 }
 
-.nav-border {
-  border-top: solid 7px $main-color;
-  border-bottom: solid 7px $main-color;
-  padding-bottom: 58px;	
-  margin-top: 13px;
-}
-
 .layout-padding {
 	padding-left: 8px;
 	padding-top: 5px;
@@ -83,18 +76,18 @@ a:active {
 }
 
 .title{
-	font-size: 40px;
+	font-size: 30px;
 	font-family: $main-font4;
 }
 
 .subtitle {
-	font-size: 30px;
+	font-size: 20px;
 	color: $main-color;
 	font-family: $main-font4;
 }
  
 .subtitle a {
-	font-size: 30px ;
+	font-size: 20px ;
 	color: $main-color;
 }
 
@@ -103,7 +96,7 @@ a:active {
 }
 
 .main-text {
-	font-size: 30px;
+	font-size: 18px;
 	color: $main-color;
 }
 
@@ -116,8 +109,6 @@ a:active {
 	color: $main-color;
 }
 
-
-
 .footer-slogan {
 	color: $main-color2;
 	font-size: 43px;
@@ -129,8 +120,49 @@ a:active {
 
 .contact-footer span {
 	color: $main-color2;
-	font-size: 30px;
+	font-size: 20px;
 }
+
+.three-pic-col {
+	float: right;
+	
+}
+
+/* Mobile Nav */
+
+.mobile-nav {
+  display: none; 
+}
+
+.mobile-nav ul li {
+	display: block;
+	background-color: black;
+	padding: 7px;
+	margin-bottom: 5px;
+}
+
+.mobile-nav ul li a {
+	color: white;
+}
+
+.mobile-nav ul li:hover {
+	display: block;
+	background-color: red;
+	padding: 7px;
+	margin-bottom: 5px;
+}
+
+.mobile-dropdown-nav  {
+	color:white;
+	font-size: 7px !important;
+}
+
+.dropdown-mobile-size {
+	font-size: 15px !important;
+	margin-left: 10px;
+}
+
+
 
 .hover_img h1 a { position:relative; }
 .hover_img h1 a span { position:absolute; display:none; z-index:99; }
@@ -144,7 +176,7 @@ nav ul li {
 
 .nav-footer ul li a {
 	color: $main-color;
-	font-size: 30px;
+	font-size: 20px;
 	border-right: 3px solid $main-color;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -155,7 +187,7 @@ nav ul li {
 }
 
 .nav-footer ul li a:hover {
-	color:$main-color2;
+	color: $main-color2;
 }
 
 .maincontentlayout {
@@ -185,8 +217,15 @@ nav ul li {
 
 /* Nav Styles */
 
+.nav-border {
+  background-color: black;
+  width: auto;
+  height: 50px;
+  padding-top: 10px;
+}
+
 li {
-	font-size: 45px;
+	font-size: 20px;
 }
 
 ul {
@@ -209,13 +248,12 @@ ul {
   }
 
 .main-nav a:hover {
-	background-color: red;
-	color:$main-color2;
+	color:red;
 }
   .main-nav a {
-    color: $main-color;
+    color: $main-color2;
     display: block;
-    padding: 0px  34px;
+    padding: 0px  36px;
 	padding-bottom: 0px;
     text-decoration: none;
 	
@@ -224,21 +262,19 @@ ul {
   position: relative;
 }
 .dropdown:after {
-
   font-size: .5em;
   display: block;
   position: absolute;
-  top: 27%;
+  top: 37%;
   right: 2%;	
 }
 .drop-nav {
   position: absolute;
   display: none;
-  background-color: red;	
+  background-color: $main-color;	
 }
 .drop-nav li {
-  border-bottom: 1px solid $main-color2;
-	font-size: 30px;	
+  font-size: 20px;	
 }
 
 .drop-nav li a {
@@ -249,17 +285,17 @@ ul {
 }
 
 .red-hover:hover a {
-	background-color: red;
+	background-color: $main-color;
 	color: $main-color2;
-	border-bottom: 4px solid $main-color2;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-bottom: 1px solid $main-color2;
 }
 
 .drop-nav li a:hover {
-	background-color: darkred;
+	background-color: red;
 
 }
-
-
 
 
 
@@ -317,4 +353,37 @@ form{
 
 .val-style {
 	text-align: center;
+}
+
+
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media (min-width: 667px) and (max-width: 766px) {
+#slideshow { 
+    height: 490px; 
+}}
+
+@media (min-width: 587px) and (max-width: 666px) {
+#slideshow { 
+    height: 430px; 
+}}
+
+@media (min-width: 501px) and (max-width: 586px) {
+#slideshow { 
+    height: 380px; 
+}}
+
+@media (min-width: 401px) and (max-width: 500px) {
+#slideshow { 
+    height: 320px; 
+}}
+
+@media (min-width: 0px) and (max-width: 400px) {
+#slideshow { 
+    height: 270px; 
+}
+.email {
+	font-size: 19px !important;
+}
 }
