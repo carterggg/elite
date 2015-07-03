@@ -11,6 +11,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/careers.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/careers.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/images\/documents\/elite-georiga-license-01.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -29,6 +38,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/documents\/elite-mold-license-01.jpg",
 		"outputAbbreviatedPath": "\/images\/documents\/elite-mold-license-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/careers.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 86691,
+		"inputAbbreviatedPath": "\/images\/layout\/careers.png",
+		"outputAbbreviatedPath": "\/images\/layout\/careers.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

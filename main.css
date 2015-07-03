@@ -118,6 +118,9 @@ a:active {
   font-size: 15px !important;
   margin-left: 10px; }
 
+.li-mobile-style {
+  font-size: 20px; }
+
 .hover_img h1 a {
   position: relative; }
 
@@ -174,7 +177,7 @@ nav ul li {
   padding-top: 10px; }
 
 li {
-  font-size: 20px; }
+  font-size: 1.4vw; }
 
 ul {
   list-style: none;
