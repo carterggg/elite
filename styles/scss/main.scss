@@ -125,7 +125,13 @@ a:active {
 
 .three-pic-col {
 	float: right;
-	
+}
+
+.renovations-style {
+	list-style: square !important;
+	display: list-item;
+	color: $main-color;
+	margin-left: 30px;
 }
 
 /* Mobile Nav */
