@@ -20,6 +20,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/diytips.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/diytips.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/homeowners.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -47,6 +56,17 @@
 		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/documents\/elite-mold-license-01.jpg",
 		"outputAbbreviatedPath": "\/images\/documents\/elite-mold-license-01.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/cabinets.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/cabinets.png",
+		"outputAbbreviatedPath": "\/images\/layout\/cabinets.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -106,6 +126,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/fireplacemantel.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/fireplacemantel.png",
+		"outputAbbreviatedPath": "\/images\/layout\/fireplacemantel.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/g.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -139,6 +170,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/hireelite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8672,
+		"inputAbbreviatedPath": "\/images\/layout\/hireelite.png",
+		"outputAbbreviatedPath": "\/images\/layout\/hireelite.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/hireelite2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8673,
+		"inputAbbreviatedPath": "\/images\/layout\/hireelite2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/hireelite2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/island.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -146,6 +199,17 @@
 		"initialSize": 502419,
 		"inputAbbreviatedPath": "\/images\/layout\/island.jpg",
 		"outputAbbreviatedPath": "\/images\/layout\/island.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/island.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/island.png",
+		"outputAbbreviatedPath": "\/images\/layout\/island.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -344,6 +408,28 @@
 		"initialSize": 1619,
 		"inputAbbreviatedPath": "\/images\/layout\/t2.png",
 		"outputAbbreviatedPath": "\/images\/layout\/t2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/top100.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15400,
+		"inputAbbreviatedPath": "\/images\/layout\/top100.png",
+		"outputAbbreviatedPath": "\/images\/layout\/top100.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/top1002.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17095,
+		"inputAbbreviatedPath": "\/images\/layout\/top1002.png",
+		"outputAbbreviatedPath": "\/images\/layout\/top1002.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

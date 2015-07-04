@@ -59,6 +59,11 @@ a:active {
   color: black;
   font-family: "sinkin_sans600_semibold"; }
 
+.teststyle {
+  font-size: 20px;
+  color: black;
+  font-family: "sinkin_sans600_semibold"; }
+
 .subtitle a {
   font-size: 20px;
   color: black; }
@@ -96,6 +101,19 @@ a:active {
   display: list-item;
   color: black;
   margin-left: 30px; }
+
+.img-border {
+  border: 5px solid black; }
+
+.color-link-style {
+  font-size: 20px;
+  font-family: "sinkin_sans600_semibold"; }
+
+.color-link-style a {
+  color: red; }
+
+.color-link-style a:hover {
+  color: black; }
 
 /* Mobile Nav */
 .mobile-nav {
@@ -156,8 +174,7 @@ nav ul li {
   color: white; }
 
 .maincontentlayout {
-  position: relative;
-  z-index: -10; }
+  position: relative; }
 
 /* Slide Show Styles */
 #slideshow {
@@ -165,8 +182,7 @@ nav ul li {
   position: relative;
   width: 100%;
   height: 630px;
-  padding: 10px;
-  z-index: -10; }
+  padding: 10px; }
 
 #slideshow > div {
   position: absolute;
@@ -180,7 +196,9 @@ nav ul li {
   background-color: black;
   width: auto;
   height: 50px;
-  padding-top: 10px; }
+  padding-top: 10px;
+  z-index: 10;
+  position: relative; }
 
 li {
   font-size: 1.4vw; }
