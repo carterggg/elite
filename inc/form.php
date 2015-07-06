@@ -9,9 +9,17 @@
 					<input type="email" id="email" name="email" value="<?php echo @$email ?>" class="email required" required/>
 				</p>
 				<p>
-					<label for="message">Message:</label><?php echo @$message_error; ?>
-					<textarea cols="45" rows="7" id="message" name="message" class="required" required><?php echo @$message ?></textarea>
+					<label for="message">Project:</label><?php echo @$message_error; ?>
+					<textarea cols="45" rows="5" id="message" name="message" class="required" required><?php echo @$message ?></textarea>
+				</p>
+				<p>
+					<label for="startdate">Start Date:</label><?php echo @$message_error; ?>
+					<textarea cols="45" rows="1" id="startdate" name="startdate" class="required" required><?php echo @$message ?></textarea>
+				</p>
+				<p>
+					<label for="budget">Estimated Budget:</label><?php echo @$message_error; ?>
+					<textarea cols="45" rows="1" id="budget" name="budget" class="required" required><?php echo @$message ?></textarea>
 				</p>
 				<input name="submitted" type="submit" value="Send" />
 			</fieldset>
-		</form>
+		</form

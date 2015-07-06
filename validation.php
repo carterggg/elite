@@ -10,6 +10,8 @@
 $name;
 $email;
 $message;
+$startdate;
+$budget;
 
 	
 if(@$_POST['submitted'])
@@ -18,6 +20,8 @@ if(@$_POST['submitted'])
 	$name 			= 		@$_POST['name'];
 	$email			= 		@$_POST['email'];
 	$message 		= 		@$_POST['message'];
+	$startdate 		= 		@$_POST['startdate'];
+	$budget 		= 		@$_POST['budget'];
 	
 	
 	// if magic quotes on, remove Magic Quotes effect
@@ -26,6 +30,8 @@ if(@$_POST['submitted'])
 	  $name = stripslashes($name);
 	  $email = stripslashes($email);
 	  $message = stripslashes($message);
+	  $startdate = stripslashes($startdate);
+	  $budget = stripslashes($budget);
 	}
 	
 	
@@ -74,7 +80,7 @@ if(@$_POST['submitted'])
 		//prepare for sending email
 		$destination		= 	DESTINATION_EMAIL;
 		$subject			= 	MESSAGE_SUBJECT;
-		$body				=	"$name \r\n<br/> $email \r\n<br /> $message";
+		$body				=	"$name \r\n<br/> $email \r\n<br /> $message \r\n<br /> $startdate \r\n<br /> $budget ";
 
 		
 		if(mail($destination, $subject, $body, $headers))
@@ -85,17 +91,9 @@ if(@$_POST['submitted'])
 			echo '<link rel="stylesheet" href="stylesheet.css">';
 			echo '<div class="val-background align-center">';
 			echo "<br>";
-			echo '<img src="images/logo/logo.png" class="align-center">';
-			echo "<h2 class='val-style'>Thank You, m00n Clothing will get back to you soon.</h2>";
-			echo "<p>Your message has been sent! Below is the information you provided:</p>";
-			echo "<ul>";
-			echo "<li>".$name."</li>";
-			echo "<br>";
-			echo "<li>".$email."</li>";
-			echo "<br>";
-			echo "<li>".$message."</li>";
-			echo "</ul>";
-			echo "<a href=\"".REDIRECT_URL ."\">Go Back to Highgrade m00n.</a>";
+			echo '<img src="images/layout/eelite-logo-carterguthrie.com.png" class="align-center">';
+			echo "<h2 class='val-style'>Thank You, we will get back to you soon.</h2>";
+			echo "<a href=\"".REDIRECT_URL ."\">Elite Remodeling Atlanta</a>";
 		    echo "<br>";
 			echo "<br>";
 			echo '</div>';

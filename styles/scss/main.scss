@@ -24,6 +24,10 @@ p {
 	font-family: $main-font4;
 }
 
+strong {
+	font-weight: 800;
+}
+
 
 /* unvisited link */
 a:link {
@@ -78,6 +82,18 @@ a:active {
 .title{
 	font-size: 30px;
 	font-family: $main-font4;
+}
+
+.title a {
+	color: red;
+}
+
+.title a:hover {
+	color: $main-color;
+}
+
+.underlined-text {
+	text-decoration: underline;
 }
 
 .subtitle {
@@ -137,7 +153,8 @@ a:active {
 	list-style: square !important;
 	display: list-item;
 	color: $main-color;
-	margin-left: 30px;
+	margin-left: 38px;
+	font-size: 18px;
 }
 
 .img-border {
@@ -257,9 +274,11 @@ nav ul li {
   position: relative;	
 }
 
+/*
 li {
 	font-size: 1.4vw;
 }
+*/
 
 ul {
   list-style: none;
@@ -374,6 +393,7 @@ input,textarea {
 label {
 	margin-bottom: 0px;
 	font-size: 1.5em;
+	color: $main-color;
 }
 
 .error{
@@ -417,6 +437,15 @@ form{
     height: 270px; 
 }
 .email {
-	font-size: 19px !important;
+	font-size: 4.5vw !important;
 }
+}
+
+/* nav bar */
+
+@media (min-width: 1400px) and  (max-width: 8000px) {
+    li {
+		font-size: 20px;
+	}
+
 }

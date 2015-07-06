@@ -20,6 +20,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/contact.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/contact.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/diytips.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -60,6 +69,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/basement.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 60995,
+		"inputAbbreviatedPath": "\/images\/layout\/basement.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/basement.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/bathroom.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 753231,
+		"inputAbbreviatedPath": "\/images\/layout\/bathroom.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/bathroom.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/cabinets.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -93,13 +124,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/elite-logo-carterguthrie.com.png": {
+	"\/images\/layout\/deck.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.06718e+07,
+		"inputAbbreviatedPath": "\/images\/layout\/deck.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/deck.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/eelite-logo-carterguthrie.com.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 9031,
-		"inputAbbreviatedPath": "\/images\/layout\/elite-logo-carterguthrie.com.png",
-		"outputAbbreviatedPath": "\/images\/layout\/elite-logo-carterguthrie.com.png",
+		"inputAbbreviatedPath": "\/images\/layout\/eelite-logo-carterguthrie.com.png",
+		"outputAbbreviatedPath": "\/images\/layout\/eelite-logo-carterguthrie.com.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -192,6 +234,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/investing.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 53220,
+		"inputAbbreviatedPath": "\/images\/layout\/investing.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/investing.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/island.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -276,6 +329,17 @@
 		"initialSize": 536436,
 		"inputAbbreviatedPath": "\/images\/layout\/paragraph2.png",
 		"outputAbbreviatedPath": "\/images\/layout\/paragraph2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/sale.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 419661,
+		"inputAbbreviatedPath": "\/images\/layout\/sale.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/sale.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -474,6 +538,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/investors.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/investors.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/js\/bootstrap-image-gallery.js": {
 		"fileType": 64,
 		"ignore": 0,
@@ -545,6 +618,15 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/realestateagents.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/realestateagents.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0

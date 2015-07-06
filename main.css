@@ -12,6 +12,9 @@ h1 {
 p {
   font-family: "sinkin_sans600_semibold"; }
 
+strong {
+  font-weight: 800; }
+
 /* unvisited link */
 a:link {
   text-decoration: none; }
@@ -53,6 +56,15 @@ a:active {
 .title {
   font-size: 30px;
   font-family: "sinkin_sans600_semibold"; }
+
+.title a {
+  color: red; }
+
+.title a:hover {
+  color: black; }
+
+.underlined-text {
+  text-decoration: underline; }
 
 .subtitle {
   font-size: 20px;
@@ -100,7 +112,8 @@ a:active {
   list-style: square !important;
   display: list-item;
   color: black;
-  margin-left: 30px; }
+  margin-left: 38px;
+  font-size: 18px; }
 
 .img-border {
   border: 5px solid black; }
@@ -200,9 +213,11 @@ nav ul li {
   z-index: 10;
   position: relative; }
 
+/*
 li {
-  font-size: 1.4vw; }
-
+	font-size: 1.4vw;
+}
+*/
 ul {
   list-style: none;
   padding: 0;
@@ -295,7 +310,8 @@ input, textarea {
 
 label {
   margin-bottom: 0px;
-  font-size: 1.5em; }
+  font-size: 1.5em;
+  color: black; }
 
 .error {
   color: white; }
@@ -324,4 +340,8 @@ form {
     height: 270px; }
 
   .email {
-    font-size: 19px !important; } }
+    font-size: 4.5vw !important; } }
+/* nav bar */
+@media (min-width: 1400px) and (max-width: 8000px) {
+  li {
+    font-size: 20px; } }

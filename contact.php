@@ -1,3 +1,17 @@
+
+<?php
+	
+	// * IMPORTANT * Set your email information here
+	define('DESTINATION_EMAIL','eliteremodelingatl@bellsouth.net');
+	define('MESSAGE_SUBJECT','Elite Remodeling Atlanta Website Email');
+	define('REPLY_TO', 'eliteremodelingatl@bellsouth.net');
+	define('FROM_ADDRESS', 'eliteremodelingatl@bellsouth.net');
+	define('REDIRECT_URL', 'index.html');
+	
+	require_once('validation.php');
+
+?>
+
 <!doctype html>
 <html>
 <head>
@@ -63,7 +77,7 @@
 			</div>
 				<br>
 				
-<!-- Network Side Bar tab -->				
+<!-- Networks Side Tab -->				
 		<div class="network-style">
 			<a href="http://www.facebook.com/Eliteremodelingatlantallc" title="Elite Remodeling Atlanta LLC"><img src="images/layout/f.png" onmouseover="this.src='images/layout/f2.png'" onmouseout="this.src='images/layout/f.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="50px"></a>
 				
@@ -73,7 +87,7 @@
 				
 			<a href="https://www.youtube.com/channel/UCxzi-kopbreOFSzpEZlIctA" title="Elite Remodeling Atlanta LLC"><img src="images/layout/u.png" onmouseover="this.src='images/layout/u2.png'" onmouseout="this.src='images/layout/u.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="50px"></a>
 		</div>
-			<br><br><br>
+			<br><br class="hidden-xs"><br class="hidden-xs">
 				<h1 class="title hidden-xs">Contact us:</h1>
 				<h1 class="subtitle hidden-xs">- 404-934-7729</h1>
 				<h1 class="subtitle hidden-xs">- <a href="contact.php" title="Elite: Atlanta Remodeling Company: Email Us">Email us</a></h1>
@@ -103,7 +117,8 @@
 									<img src="images/layout/services.png" alt="To Do list Remodeling Atlanta" class="img-responsive align-center">
 										<h1 class="subtitle"><a href="homeowners.html" title="Elite: Atlanta Remodeling Company: Homeowners">- Homeowners</a></h1>	
 										<h1 class="subtitle"><a href="realestate.html" title="Elite: Atlanta Remodeling Company: Real Estate Agents">- Real Estate Agents</a></h1>
-										<h1 class="subtitle"><a href="investors.html" title="Elite: Atlanta Remodeling Company: Investors">- Investors</a></h1>															    </div>																																			
+										<h1 class="subtitle"><a href="investors.html" title="Elite: Atlanta Remodeling Company: Investors">- Investors</a></h1>	
+										<br><br><br>														    		</div>																																			
 					
 		</div><!-- End of Side Bar Tab -->
 		
@@ -140,55 +155,35 @@
 
   
 <!-- Main home page info --> 
-<div class="maincontentlayout">    		 	   		 	
+<div class="maincontentlayout"> 
 	<div class="row">
 		<div class="col-xs-12">
-	   			<br>
-		   <h1 class="title align-center">About Elite:</h1>
-		   		<br>
-			<p class="main-text">Elite Remodeling Atlanta is a family owned and operated company located in the Atlanta Area with over 20+years experience in the Construction Industry. You can be assured of the personal attention and dedication to quality that only a family-run business can consistently provide.</p>
+			<br>
+				<h1 class="title align-center">Contact Us:</h1>
+		</div>
+	</div>
+	   		 	   		 	
+	<div class="row">
+		<div class="col-xs-12 col-sm-6">
+		  <br><br><br>
+			<p class="title red-text">Elite Remodeling ATL</p>
+			<p class="main-text email"> - eliteremodelingatl @bellsouth.net</p>
+			<p class="main-text"> - 404-934-7729</p>
+			<p class="main-text">3949 Bessemer Drive Buford,GA 30519</p>
 			  <br>
-			  
-		    <div class="three-pic-col">
-		       <div class="row">
-		       		<div class="hidden-xs col-sm-4">
-			    <img src="images/layout/samplepics-31.png" alt="Elite Remodeling Atlanta" class="img-responsive align-center img-border"> 
-				   </div>
-         	       <div class="hidden-xs col-sm-4">
-          	    <img src="images/layout/samplepics-32.png" alt="Elite Remodeling Atlanta" class="img-responsive align-center img-border">
-				   </div>
-         	    	<div class="col-xs-12 col-sm-4">
-          	    <img src="images/layout/samplepics-33.png" alt="Elite Remodeling Atlanta" class="img-responsive align-center img-border">
-				   </div>
-          	    </div>
-          	    <br>
-          	</div>
-          	  
-           	  <br>
-				<p class="main-text">When working with us you will receive a professional staff, clean and well educated team, that works on every project together. </p>
- 
-			<p class="main-text">After scheduling a free estimate, our professional will meet with you to discuss your project and provide you with a detailed estimate. <span class="underlined-text">Elite Remodeling Atlanta</span> is with you every step of the way throughout your project. We pride ourselves on maintaining honest and open communications with you during the entire process.</p> 
-				
-					<br>
-				<img src="images/layout/samplepics-34.png" alt="Elite Remodeling Atlanta" class="img-responsive align-center img-border">
-					<br>
-					
-					<p class="main-text">We also exercise strict care and respect for your home or work environment while construction is in progress. And we understand that realistic scheduling, and taking the proper time to make the “right” decisions along the way, are important components in our working relationship with you – our valued customer.</p>
-					
-					<p class="main-text">Our goal with every project is to earn you as a life long customer by providing outstanding service, high quality and competitive pricing.</p>
-					
-					<br>
-			    <img src="images/layout/samplepics-35.png" alt="Elite Remodeling Atlanta" class="img-responsive align-center img-border">
-           	 		<br>
- 
-						
-
-							<p class="main-text align-center">All Work Is Warrantied and Your Satisfaction Is Our Number One Goal, Referrals Available Upon Request.</p>
-							<br><br>
-							
-							<p class="title align-center underlined-text"><a href="contact.php" title="Elite Remodeling Atlanta">Hire Elite Now!</a></p>
+				<img src="images/layout/bathroom.jpg" alt="Elite Remodeling Atlanta" class="img-responsive img-border">
+		</div>
+		<div class="col-xs-12 col-sm-6">
+	   			<br>
+		   		<br><br class="hidden-xs">
+					<p class="title red-text align-center">Hire Elite Now!</p>
+						<br>
+			 				<?php include('inc/form.php'); ?>
 		
-		    		<br><br><br><br>
+          	    <br>
+          	
+          	  
+           	  <br><br class="hidden-sm hidden-md hidden-lg">
 			
 		</div>
 	</div>
