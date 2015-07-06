@@ -32,16 +32,16 @@
 
 <!-- First Row -->
 	<div class="row">
-		<div class=" hidden-xs col-sm-12">
+		<div class=" hidden-xs hidden-md col-sm-12">
 			<br>
 		</div>
 	</div>
 
 <!-- Mobile Nav Row -->
 	<div class="row">
-		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+		<div class="col-xs-12 hidden-md hidden-lg">
 		   <br>
-			<img src="images/layout/menu-icon.png" class="toggle" width="55px" align="right" alt="m00n">
+			<img src="images/layout/menu-icon.png" class="toggle" width="55px" align="right" alt="Elite Remodeling Atlanta">
   	  	
    			<nav class="mobile-nav toggle-info">
    				<ul> <br><br><br>
@@ -87,15 +87,15 @@
 				
 			<a href="https://www.youtube.com/channel/UCxzi-kopbreOFSzpEZlIctA" title="Elite Remodeling Atlanta LLC"><img src="images/layout/u.png" onmouseover="this.src='images/layout/u2.png'" onmouseout="this.src='images/layout/u.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="50px"></a>
 		</div>
-			<br><br class="hidden-xs"><br class="hidden-xs">
-				<h1 class="title hidden-xs">Contact us:</h1>
-				<h1 class="subtitle hidden-xs">- 404-934-7729</h1>
-				<h1 class="subtitle hidden-xs">- <a href="contact.php" title="Elite: Atlanta Remodeling Company: Email Us">Email us</a></h1>
+			<br><br><br>
+				<h1 class="title hidden-xs hidden-sm">Contact us:</h1>
+				<h1 class="subtitle hidden-xs hidden-sm">- 404-934-7729</h1>
+				<h1 class="subtitle hidden-xs hidden-sm">- <a href="contact.php" title="Elite: Atlanta Remodeling Company: Email Us">Email us</a></h1>
 				
-				  <br class="hidden-xs">
+				  <br class="hidden-xs hidden-sm">
 				  
 <!-- Do It Yourelf Tips Side Tab -->				  
-			<div class="hidden-xs">
+			<div class="hidden-xs hidden-sm">
 					<a href="contact.php" title="Hire Elite Remodeling Atlanta"><img src="images/layout/hireelite.png" onmouseover="this.src='images/layout/hireelite2.png'" onmouseout="this.src='images/layout/hireelite.png'" alt="Hire Elite Remodeling Atlanta" class="img-responsive align-center"></a>	
 					<br>
 					
@@ -105,7 +105,7 @@
 			 </div>
 						
 <!-- Licensed In Side Tab -->						
-		<div class="hidden-xs hover_img">
+		<div class="hidden-xs hidden-sm hover_img">
 			<h1 class="title">Licensed In:</h1>
 				<h1 class="subtitle"><a href="#">- GA State<span><img src="images/documents/elite-georiga-license-01.jpg" alt="Elite Remodeling Atlanta LLC" height="500" /></span></a></h1>		
 				    <h1 class="subtitle"><a href="#">- Mold<span><img src="images/documents/elite-mold-license-01.jpg" alt="Elite Remodeling Atlanta LLC" height="500" /></span></a></h1>
@@ -113,23 +113,23 @@
 							   <br>
 							   
 <!-- Services Side Tab -->							   
-					<div class="hidden-xs">
+					<div class="hidden-xs hidden-sm">
 									<img src="images/layout/services.png" alt="To Do list Remodeling Atlanta" class="img-responsive align-center">
 										<h1 class="subtitle"><a href="homeowners.html" title="Elite: Atlanta Remodeling Company: Homeowners">- Homeowners</a></h1>	
 										<h1 class="subtitle"><a href="realestate.html" title="Elite: Atlanta Remodeling Company: Real Estate Agents">- Real Estate Agents</a></h1>
 										<h1 class="subtitle"><a href="investors.html" title="Elite: Atlanta Remodeling Company: Investors">- Investors</a></h1>	
-										<br><br><br>														    		</div>																																			
+									<br><br><br>														    </div>																																			
 					
 		</div><!-- End of Side Bar Tab -->
-		
+			
 		
 <!-- Main Content -->
 		
 	<div class="col-xs-12 col-sm-8">
-  		<h1 class="hidden-xs">"The Solution for all your Construction Needs"</h1>
+  		<h1 class="hidden-xs hidden-sm">"The Solution for all your Construction Needs"</h1>
   		
 <!-- Main Nav -->   		
-   		<div class="nav-border hidden-xs">
+   		<div class="nav-border hidden-xs hidden-sm">
          		
         	<ul class="main-nav">
       			<li><a href="index.html">HOME</a></li>
