@@ -9,6 +9,8 @@
 
 $name;
 $email;
+$phone;
+$address;
 $message;
 $startdate;
 $budget;
@@ -19,6 +21,8 @@ if(@$_POST['submitted'])
 	//create vars from user input
 	$name 			= 		@$_POST['name'];
 	$email			= 		@$_POST['email'];
+	$phone			= 		@$_POST['phone'];
+	$address		= 		@$_POST['address'];
 	$message 		= 		@$_POST['message'];
 	$startdate 		= 		@$_POST['startdate'];
 	$budget 		= 		@$_POST['budget'];
@@ -29,6 +33,8 @@ if(@$_POST['submitted'])
 	{ 
 	  $name = stripslashes($name);
 	  $email = stripslashes($email);
+	  $phone = stripslashes($phone);
+	  $address = stripslashes($address);
 	  $message = stripslashes($message);
 	  $startdate = stripslashes($startdate);
 	  $budget = stripslashes($budget);
@@ -80,7 +86,7 @@ if(@$_POST['submitted'])
 		//prepare for sending email
 		$destination		= 	DESTINATION_EMAIL;
 		$subject			= 	MESSAGE_SUBJECT;
-		$body				=	"$name \r\n<br/> $email \r\n<br /> $message \r\n<br /> $startdate \r\n<br /> $budget ";
+		$body				=	"$name \r\n<br/> $email \r\n<br /> $phone \r\n<br /> $address \r\n<br /> $message \r\n<br /> $startdate \r\n<br /> $budget ";
 
 		
 		if(mail($destination, $subject, $body, $headers))

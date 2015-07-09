@@ -9,10 +9,9 @@ $main-font4: 'sinkin_sans600_semibold';
 /* BASE */ 
 
 body {
-	background-image: url("images/layout/background.jpg");
-	background-repeat: no-repeat;
-	background-size:cover;
 	font-family: $main-font4;
+	background-color: lightgrey;
+	
 }
 
 h1 {
@@ -27,6 +26,7 @@ p {
 strong {
 	font-weight: 800;
 }
+
 
 
 /* unvisited link */
@@ -62,8 +62,12 @@ a:active {
 	padding-top: 5px;
 }
 
+.white-background {
+	background-color: white;
+}
+
 .network-style a  {
-	float: left;
+	float: right;
 }
 
 .network-style2 a  {
@@ -80,7 +84,7 @@ a:active {
 }
 
 .title{
-	font-size: 30px;
+	font-size: 28px;
 	font-family: $main-font4;
 }
 
@@ -173,6 +177,13 @@ a:active {
 .color-link-style a:hover {
 	color: black;
 }
+
+.elite-font {
+	font-family: $main-font2;
+	font-size: 30px;
+	color: red;
+}
+
 
 /* Mobile Nav */
 
