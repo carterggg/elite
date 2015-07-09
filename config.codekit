@@ -282,9 +282,20 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 304,
+		"initialSize": 0,
 		"inputAbbreviatedPath": "\/images\/layout\/menu-icon.png",
 		"outputAbbreviatedPath": "\/images\/layout\/menu-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/menu-icon2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 304,
+		"inputAbbreviatedPath": "\/images\/layout\/menu-icon2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/menu-icon2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
