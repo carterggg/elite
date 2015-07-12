@@ -86,7 +86,7 @@ if(@$_POST['submitted'])
 		//prepare for sending email
 		$destination		= 	DESTINATION_EMAIL;
 		$subject			= 	MESSAGE_SUBJECT;
-		$body				=	"$name \r\n<br/> $email \r\n<br /> $phone \r\n<br /> $address \r\n<br /> $message \r\n<br /> $startdate \r\n<br /> $budget ";
+		$body				=	"$name \r\n<br/> $email \r\n<br/> $phone \r\n<br/> $address \r\n<br/> $message \r\n<br/> $startdate \r\n<br/> $budget ";
 
 		
 		if(mail($destination, $subject, $body, $headers))
