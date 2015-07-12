@@ -454,6 +454,50 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/samplepics-36.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-36.png",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-36.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/samplepics-37.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-37.png",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-37.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/samplepics-38.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 42015,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-38.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-38.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/samplepics-38.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 118113,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-38.png",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-38.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/services.png": {
 		"fileType": 32768,
 		"ignore": 0,

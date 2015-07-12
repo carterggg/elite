@@ -1,3 +1,8 @@
+/* 
+						<div class="responsive-vid">
+							<iframe width="1280" height="720" src="https://www.youtube.com/embed/wjxYZvQS9OM?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+						</div>
+*/
 /* BASE */
 body {
   font-family: "sinkin_sans600_semibold";
@@ -306,8 +311,8 @@ ul {
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
-  padding-bottom: 56.25%;
-  padding-top: 60px;
+  padding-bottom: 56.45%;
+  padding-top: 74px;
   overflow: hidden; }
 
 .responsive-vid iframe,
