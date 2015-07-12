@@ -185,6 +185,24 @@ a:active {
 	color: red;
 }
 
+.address-style {
+	font-size: 16px;
+	color: $main-color;
+	margin-left: 11px;
+}
+
+.phone-style {
+	font-size: 22px;
+	color: $main-color;
+}
+
+.email a {
+	color: $main-color;
+}
+
+.email a:hover {
+	color: red;
+}
 
 /* Mobile Nav */
 

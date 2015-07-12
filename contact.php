@@ -165,9 +165,9 @@
 		<div class="col-xs-12 col-sm-6">
 		  <br><br><br>
 			<p class="title red-text">Elite Remodeling ATL</p>
-			<p class="main-text email"> - <a href="mailto:eliteremodelingatl@bellsouth.net">eliteremodelingatl @bellsouth.net</a></p>
-			<p class="main-text"> - 404-934-7729</p>
-			<p class="main-text">3949 Bessemer Drive Buford,GA 30519</p>
+			<p class="main-text email"> - <a href="mailto:eliteremodelingatl@bellsouth.net">Eliteremodelingatl @bellsouth.net</a></p>
+			<p class="phone-style"> - 404-934-7729</p>
+			<p class="address-style">3949 Bessemer Drive <br> Buford,GA 30519</p>
 			  <br>
 				<img src="images/layout/bathroom.jpg" alt="Elite Remodeling Atlanta" class="img-responsive img-border">
 		</div>
@@ -219,13 +219,13 @@
 				
 			<div class="network-style2">
 	
-				<a href="https://www.youtube.com/channel/UCxzi-kopbreOFSzpEZlIctA" title="Elite Remodeling Atlanta LLC"><img src="images/layout/u.png" onmouseover="this.src='images/layout/u2.png'" onmouseout="this.src='images/layout/u.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
+				<a href="https://www.youtube.com/channel/UCxzi-kopbreOFSzpEZlIctA" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/u.png" onmouseover="this.src='images/layout/u2.png'" onmouseout="this.src='images/layout/u.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
 				
-					<a href="https://twitter.com/EliteRemodelAtl" title="Elite Remodeling Atlanta LLC"><img src="images/layout/t.png" onmouseover="this.src='images/layout/t2.png'" onmouseout="this.src='images/layout/t.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
+					<a href="https://twitter.com/EliteRemodelAtl" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/t.png" onmouseover="this.src='images/layout/t2.png'" onmouseout="this.src='images/layout/t.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
 				
-				<a href="https://plus.google.com/u/0/+EliteRemodelingAtlantaLLCBuford/about" title="Elite Remodeling Atlanta LLC"><img src="images/layout/g.png" onmouseover="this.src='images/layout/g2.png'" onmouseout="this.src='images/layout/g.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
+				<a href="https://plus.google.com/u/0/+EliteRemodelingAtlantaLLCBuford/about" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/g.png" onmouseover="this.src='images/layout/g2.png'" onmouseout="this.src='images/layout/g.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
 				
-				<a href="http://www.facebook.com/Eliteremodelingatlantallc" title="Elite Remodeling Atlanta LLC"><img src="images/layout/f.png" onmouseover="this.src='images/layout/f2.png'" onmouseout="this.src='images/layout/f.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
+				<a href="http://www.facebook.com/Eliteremodelingatlantallc" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/f.png" onmouseover="this.src='images/layout/f2.png'" onmouseout="this.src='images/layout/f.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
 				
 				
 			</div>
