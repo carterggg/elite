@@ -344,6 +344,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/real-estate-investors.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23825,
+		"inputAbbreviatedPath": "\/images\/layout\/real-estate-investors.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/real-estate-investors.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/sale.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
