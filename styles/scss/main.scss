@@ -357,7 +357,7 @@ ul {
   .main-nav a {
     color: $main-color2;
     display: block;
-    padding: 0px  36px;
+    padding: 0px  20px;
 	padding-bottom: 0px;
     text-decoration: none;
 	
@@ -536,7 +536,7 @@ form{
 
 
 
-/* nav bar */
+/* Nav Bar */
 
 @media (max-width: 1429px) {
  li {
@@ -544,7 +544,7 @@ form{
 	}
 	
 .main-nav a {
-padding: 0px  35px;
+padding: 0px  25px;
   }
 }
 
@@ -594,7 +594,7 @@ padding: 0px  13px;
 	}
 	
 .main-nav a {
-padding: 0px  20px;
+padding: 0px  12px;
   }
 	
 
@@ -606,15 +606,24 @@ padding: 0px  20px;
 	}
 	
 .main-nav a {
-padding: 0px  15px;
+padding: 0px  9px;
   }
+}
 	
+@media (max-width: 1299px) {
+ li {
+		font-size: 19px;
+	}
+	
+.main-nav a {
+padding: 0px  9px;
+  }	
 
 }
 
 @media (max-width: 1200px) {
  li {
-		font-size: 20px;
+		font-size: 19px;
 	}
 	
 .main-nav a {
@@ -623,3 +632,149 @@ padding: 0px  10px;
 	
 
 }
+
+@media (max-width: 1199px) {
+ li {
+		font-size: 18px;
+	}
+	
+.main-nav a {
+padding: 0px  10px;
+  }
+	
+
+}
+
+@media (max-width: 1198px) {
+ li {
+		font-size: 17px;
+	}
+	
+.main-nav a {
+padding: 0px  10px;
+  }
+	
+
+}
+
+@media (max-width: 1197px) {
+ li {
+		font-size: 16px;
+	}
+	
+.main-nav a {
+padding: 0px  15px;
+  }
+	
+
+}
+
+@media (max-width: 1196px) {
+ li {
+		font-size: 15px;
+	}
+	
+.main-nav a {
+padding: 0px  17px;
+  }
+	
+
+}
+
+@media (max-width: 1195px) {
+ li {
+		font-size: 15px;
+	}
+	
+.main-nav a {
+padding: 0px  15px;
+  }
+	
+
+}
+
+
+@media (max-width: 1194px) {
+ li {
+		font-size: 14px;
+	}
+	
+.main-nav a {
+padding: 0px  17px;
+  }
+	
+
+}
+
+@media (max-width: 1193px) {
+ li {
+		font-size: 15px;
+	}
+	
+.main-nav a {
+padding: 0px  14px;
+  }
+	
+
+}
+
+@media (max-width: 1192px) {
+ li {
+		font-size: 14px;
+	}
+	
+.main-nav a {
+padding: 0px  16px;
+  }
+	
+
+}
+
+@media (max-width: 1191px) {
+ li {
+		font-size: 14px;
+	}
+	
+.main-nav a {
+padding: 0px  15px;
+  }
+	
+
+}
+
+@media (max-width: 1190px) {
+ li {
+		font-size: 13px;
+	}
+	
+.main-nav a {
+padding: 0px  17px;
+  }
+	
+
+}
+
+@media (max-width: 1189px) {
+ li {
+		font-size: 14px;
+	}
+	
+.main-nav a {
+padding: 0px  13px;
+  }
+	
+
+}
+
+@media (max-width: 1188px) {
+ li {
+		font-size: 14px;
+	}
+	
+.main-nav a {
+padding: 0px  12px;
+  }
+	
+
+}
+
