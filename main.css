@@ -140,6 +140,16 @@ a:active {
   font-size: 30px;
   color: red; }
 
+.elite-font a {
+  font-family: "NK_Monotype Corsiva";
+  font-size: 30px;
+  color: red; }
+
+.elite-font a:hover {
+  font-family: "NK_Monotype Corsiva";
+  font-size: 30px;
+  color: black; }
+
 .address-style {
   font-size: 16px;
   color: black;

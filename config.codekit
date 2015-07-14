@@ -38,6 +38,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/gallery.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/gallery.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/homeowners.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -311,6 +320,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/money-house.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23825,
+		"inputAbbreviatedPath": "\/images\/layout\/money-house.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/money-house.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/paintdoor.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -340,17 +360,6 @@
 		"initialSize": 536436,
 		"inputAbbreviatedPath": "\/images\/layout\/paragraph2.png",
 		"outputAbbreviatedPath": "\/images\/layout\/paragraph2.png",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
-	"\/images\/layout\/real-estate-investors.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 23825,
-		"inputAbbreviatedPath": "\/images\/layout\/real-estate-investors.jpg",
-		"outputAbbreviatedPath": "\/images\/layout\/real-estate-investors.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -505,6 +514,17 @@
 		"initialSize": 118113,
 		"inputAbbreviatedPath": "\/images\/layout\/samplepics-38.png",
 		"outputAbbreviatedPath": "\/images\/layout\/samplepics-38.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/samplepics-39.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 369602,
+		"inputAbbreviatedPath": "\/images\/layout\/samplepics-39.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/samplepics-39.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
