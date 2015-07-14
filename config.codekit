@@ -287,6 +287,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/layout\/makecents.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 24365,
+		"inputAbbreviatedPath": "\/images\/layout\/makecents.png",
+		"outputAbbreviatedPath": "\/images\/layout\/makecents.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/makecents2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25855,
+		"inputAbbreviatedPath": "\/images\/layout\/makecents2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/makecents2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/layout\/menu-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
