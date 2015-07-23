@@ -4,6 +4,7 @@ $main-font: 'bebas_neueregular';
 $main-font2: 'NK_Monotype Corsiva';
 $main-font3: 'alegreya_sansmedium';
 $main-font4: 'sinkin_sans600_semibold';
+$main-font5: 'cardobold';
 
 /* 
 						<div class="responsive-vid">
@@ -15,9 +16,10 @@ $main-font4: 'sinkin_sans600_semibold';
 /* BASE */ 
 
 body {
-	font-family: $main-font4;
+	font-family: $main-font5;
 	background-color: lightgrey;
 	border: lightgrey 4px solid;
+	font-weight: 700;
 	
 }
 
@@ -27,7 +29,8 @@ h1 {
 }
 
 p {
-	font-family: $main-font4;
+	font-family: $main-font5;
+	font-weight: 700;
 }
 
 strong {
@@ -91,8 +94,9 @@ a:active {
 }
 
 .title{
-	font-size: 28px;
-	font-family: $main-font4;
+	font-size: 30px;
+	font-family: $main-font5;
+	font-weight: 700;
 }
 
 .title a {
@@ -108,9 +112,19 @@ a:active {
 }
 
 .subtitle {
-	font-size: 20px;
+	font-size: 24px;
 	color: $main-color;
-	font-family: $main-font4;
+	font-family: $main-font5;
+	font-weight: 800;
+}
+
+.subtitle a {
+	font-size: 24px ;
+	color: $main-color;
+}
+
+.subtitle a:hover {
+	color: red;
 }
 
 .teststyle {
@@ -119,17 +133,10 @@ a:active {
 	font-family: $main-font4;
 }
  
-.subtitle a {
-	font-size: 20px ;
-	color: $main-color;
-}
 
-.subtitle a:hover {
-	color: red;
-}
 
 .main-text {
-	font-size: 18px;
+	font-size: 21px;
 	color: $main-color;
 }
 
@@ -248,16 +255,16 @@ a:active {
 
 .mobile-dropdown-nav  {
 	color:white;
-	font-size: 7px !important;
+	font-size: 19px !important;
 }
 
 .dropdown-mobile-size {
-	font-size: 15px !important;
+	font-size: 19px !important;
 	margin-left: 10px;
 }
 
 .li-mobile-style {
-	font-size: 20px;
+	font-size: 22px;
 }
 
 
@@ -273,7 +280,7 @@ nav ul li {
 
 .nav-footer ul li a {
 	color: $main-color;
-	font-size: 20px;
+	font-size: 24px;
 	border-right: 3px solid $main-color;
 	padding-left: 10px;
 	padding-right: 10px;
@@ -337,6 +344,7 @@ ul {
   padding: 0;
   margin: 0; 
   padding-top: 0px;
+	margin-top: 2px; 
 }
 
 .main-nav,
@@ -357,7 +365,7 @@ ul {
   .main-nav a {
     color: $main-color2;
     display: block;
-    padding: 0px  20px;
+    padding: 0px  30px;
 	padding-bottom: 0px;
     text-decoration: none;
 	
