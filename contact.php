@@ -1,4 +1,3 @@
-
 <?php
 	
 	// * IMPORTANT * Set your email information here
@@ -11,6 +10,7 @@
 	require_once('validation.php');
 
 ?>
+
 
 <!doctype html>
 <html>
@@ -75,9 +75,11 @@
 				<h1 class="align-center">"The Solution for all your Construction Needs"</h1>
 			</div>
 				
-				<h1 class="title hidden-xs hidden-sm">Contact us:</h1>
-				<h1 class="subtitle hidden-xs hidden-sm">- 404-934-7729</h1>
-				<h1 class="subtitle hidden-xs hidden-sm">- <a href="contact.php" title="Elite: Atlanta Remodeling Company: Email Us">Email us</a></h1>
+				
+				<br><br>
+				<a href="mailto:eliteremodelingatl@bellsouth.net"><img src="images/layout/emailicon.png" onmouseover="this.src='images/layout/email-design2.png'" onmouseout="this.src='images/layout/emailicon.png'"  alt="Elite Remodeling Atlanta: Email Us" class="img-responsive align-center hidden-xs hidden-sm"></a>
+				<br>
+				<h1 class="phone-text hidden-xs hidden-sm align-center">404-934-7729</h1>
 				
 				  <br class="hidden-xs hidden-sm">
 				  
@@ -109,11 +111,11 @@
 			 												
 <!-- Licensed In Side Tab -->						
 		<div class="hidden-xs hidden-sm hover_img">
-			<h1 class="title">Licensed In:</h1>
-				<h1 class="subtitle"><a href="#">- GA State<span><img src="images/documents/elite-georiga-license-01.jpg" alt="Elite Remodeling Atlanta LLC" height="500" /></span></a></h1>		
-				    <h1 class="subtitle"><a href="#">- Mold<span><img src="images/documents/elite-mold-license-01.jpg" alt="Elite Remodeling Atlanta LLC" height="500" /></span></a></h1>
+			
+				<h1 class="subtitle"><a href="#">- GA State Licensed<span><img src="images/documents/elite-georiga-license-01.jpg" alt="Elite Remodeling Atlanta LLC" height="500" /></span></a></h1>		
+				    <h1 class="subtitle align-center"><a href="#">- Mold Remediation Certified<span><img src="images/documents/elite-mold-license-01.jpg" alt="Elite Remodeling Atlanta LLC" height="500" /></span></a></h1>
 		</div>
-							   <br>																																									
+							  <br><br><br><br><br><br><br><br><br><br><br><br class="hidden-md"><br class="hidden-md">																																								
 					
 		</div><!-- End of Side Bar Tab -->
 		
@@ -126,15 +128,16 @@
  		<!-- Networks Side Tab -->
  		<br>				
 		<div class="network-style hidden-xs">
-			<a href="https://www.youtube.com/channel/UCxzi-kopbreOFSzpEZlIctA" title="Elite Remodeling Atlanta LLC"><img src="images/layout/u.png" onmouseover="this.src='images/layout/u2.png'" onmouseout="this.src='images/layout/u.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
+			<a href="https://www.youtube.com/channel/UCxzi-kopbreOFSzpEZlIctA" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/u.png" onmouseover="this.src='images/layout/u2.png'" onmouseout="this.src='images/layout/u.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
 				
-					<a href="https://twitter.com/EliteRemodelAtl" title="Elite Remodeling Atlanta LLC"><img src="images/layout/t.png" onmouseover="this.src='images/layout/t2.png'" onmouseout="this.src='images/layout/t.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
+					<a href="https://twitter.com/EliteRemodelAtl" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/t.png" onmouseover="this.src='images/layout/t2.png'" onmouseout="this.src='images/layout/t.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
 				
-				<a href="https://plus.google.com/u/0/+EliteRemodelingAtlantaLLCBuford/about" title="Elite Remodeling Atlanta LLC"><img src="images/layout/g.png" onmouseover="this.src='images/layout/g2.png'" onmouseout="this.src='images/layout/g.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
+				<a href="https://plus.google.com/u/0/+EliteRemodelingAtlantaLLCBuford/about" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/g.png" onmouseover="this.src='images/layout/g2.png'" onmouseout="this.src='images/layout/g.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
 				
-				<a href="http://www.facebook.com/Eliteremodelingatlantallc" title="Elite Remodeling Atlanta LLC"><img src="images/layout/f.png" onmouseover="this.src='images/layout/f2.png'" onmouseout="this.src='images/layout/f.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
+				<a href="http://www.facebook.com/Eliteremodelingatlantallc" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/f.png" onmouseover="this.src='images/layout/f2.png'" onmouseout="this.src='images/layout/f.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
 				<br class="hidden-lg hidden-md hidden-xs">
-		</div> 
+		</div>
+ 		
   		<h1 class="hidden-xs hidden-sm">"The Solution for all your Construction Needs"</h1>
   		
  <!-- Main Nav -->   		
@@ -157,7 +160,7 @@
     		</ul>
          </div>			
       		 	
-      		 <br>
+      		 <br class="hidden-xs">
     		 
 
    				
@@ -167,29 +170,29 @@
 <div class="maincontentlayout"> 
 	<div class="row">
 		<div class="col-xs-12">
-			<br>
-				<h1 class="title align-center">Contact Us:</h1>
+		
+				
 		</div>
 	</div>
 	   		 	   		 	
 	<div class="row">
-		<div class="col-xs-12 col-sm-6">
+		<div class="col-xs-12">
 		  <br><br><br>
-			<p class="title red-text">Elite Remodeling ATL</p>
-			<p class="main-text email"> - <a href="mailto:eliteremodelingatl@bellsouth.net">Eliteremodelingatl @bellsouth.net</a></p>
-			<p class="phone-style"> - 404-934-7729</p>
-			<p class="address-style">3949 Bessemer Drive <br> Buford,GA 30519</p>
-			  <br>
-				<img src="images/layout/bathroom.jpg" alt="Elite Remodeling Atlanta" class="img-responsive img-border">
-		</div>
-		<div class="col-xs-12 col-sm-6">
-	   			<br>
-		   		<br><br class="hidden-xs">
-					<p class="title red-text align-center">Hire Elite Now!</p>
+			<p class="title red-text align-center"><span class="elite-font-contact">Elite Remodeling Atlanta, LLC</span></p>
+			<p class="main-text-contact email align-center"><a href="mailto:eliteremodelingatl@bellsouth.net">eliteremodelingatl@bellsouth.net</a></p>
+			<p class="phone-style-contact align-center">404-934-7729</p>
+			  <br><br>
+				<p class="contact-title red-text">Hire <span class="elite-font-contact">Elite</span> Now</p>
 						<br>
 			 				<?php include('inc/form.php'); ?>
 		
-          	    <br>
+		
+	   			<br><br>
+		   		<br class="hidden-xs">
+			
+			 				<img src="images/layout/bathroom.jpg" alt="Elite Remodeling Atlanta" class="img-responsive img-border">
+		
+          	    <br><br class="hidden-xs hidden-sm">
           	
           	  
            	  <br><br class="hidden-sm hidden-md hidden-lg">
@@ -229,7 +232,7 @@
 			</div>	
 				
 			<div class="network-style2">
-	<br class="hidden-sm hidden-md hidden-lg"><br class="hidden-sm hidden-md hidden-lg"><br class="hidden-sm hidden-md hidden-lg">
+	<br class="hidden-sm hidden-md hidden-lg"><br class="hidden-sm hidden-md hidden-lg"><br class="hidden-sm hidden-md hidden-lg">			
 				<a href="https://www.youtube.com/channel/UCxzi-kopbreOFSzpEZlIctA" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/u.png" onmouseover="this.src='images/layout/u2.png'" onmouseout="this.src='images/layout/u.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
 				
 					<a href="https://twitter.com/EliteRemodelAtl" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/t.png" onmouseover="this.src='images/layout/t2.png'" onmouseout="this.src='images/layout/t.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="40px"></a>
