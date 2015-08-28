@@ -17,6 +17,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta name="description" content="Elite Remodeling Atlanta LLC. Focused on providing high-quality service and complete customer satisfaction . We Strive to exceed your expectations.">
 <title>Elite Remodeling Atlanta LLC: Contact</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
@@ -76,9 +77,9 @@
 			</div>
 				
 				
-				<br><br>
+				<br class="hidden-xs"><br class="hidden-xs">
 				<a href="mailto:eliteremodelingatl@bellsouth.net"><img src="images/layout/emailicon.png" onmouseover="this.src='images/layout/email-design2.png'" onmouseout="this.src='images/layout/emailicon.png'"  alt="Elite Remodeling Atlanta: Email Us" class="img-responsive align-center hidden-xs hidden-sm"></a>
-				<br>
+				<br class="hidden-xs">
 				<h1 class="phone-text hidden-xs hidden-sm align-center">404-934-7729</h1>
 				
 				  <br class="hidden-xs hidden-sm">
@@ -86,12 +87,12 @@
 <!-- Do It Yourelf Tips Side Tab -->				  
 			<div class="hidden-xs hidden-sm">
 					<a href="diytips.html" title="Do It Yourself Tips Under 100 Dollars: Elite Remodeling Atlanta"><img src="images/layout/top100.png" onmouseover="this.src='images/layout/top1002.png'" onmouseout="this.src='images/layout/top100.png'"   alt="Do It Yourself Tips: Elite Remodeling Atlanta" class="img-responsive align-center"></a>
-					<br><br>
+					<br class="hidden-xs"><br class="hidden-xs">
 					
 			<a href="contact.php" title="Hire Elite Remodeling Atlanta"><img src="images/layout/hireelite2.png" onmouseover="this.src='images/layout/hireelite.png'" onmouseout="this.src='images/layout/hireelite2.png'" alt="Hire Elite Remodeling Atlanta" class="img-responsive align-center"></a>	
 
 						
-					<br><br>
+					<br class="hidden-xs"><br class="hidden-xs">
 			 </div>
 						
 							   
@@ -101,12 +102,12 @@
 										<h1 class="subtitle"><a href="homeowners.html" title="Elite: Atlanta Remodeling Company: Homeowners">- Homeowners</a></h1>	
 										<h1 class="subtitle"><a href="realestate.html" title="Elite: Atlanta Remodeling Company: Real Estate Agents">- Real Estate Agents</a></h1>
 										<h1 class="subtitle"><a href="investors.html" title="Elite: Atlanta Remodeling Company: Investors">- Investors</a></h1>															    </div>
-										<br>
+										<br class="hidden-xs">
 										
 <!-- Make Cents Side Tab -->				  
 			<div class="hidden-xs hidden-sm">
 					<a href="makecents.html" title="Improvements That Make Cents: Elite Remodeling Atlanta"><img src="images/layout/makecents.png" onmouseover="this.src='images/layout/makecents2.png'" onmouseout="this.src='images/layout/makecents.png'"   alt="Improvements That Make Cents: Elite Remodeling Atlanta" class="img-responsive align-center"></a>
-					<br>
+					<br class="hidden-xs">
 			 </div>
 			 												
 <!-- Licensed In Side Tab -->						
@@ -115,7 +116,7 @@
 				<h1 class="subtitle"><a href="#">- GA State Licensed<span><img src="images/documents/elite-georiga-license-01.jpg" alt="Elite Remodeling Atlanta LLC" height="500" /></span></a></h1>		
 				    <h1 class="subtitle align-center"><a href="#">- Mold Remediation Certified<span><img src="images/documents/elite-mold-license-01.jpg" alt="Elite Remodeling Atlanta LLC" height="500" /></span></a></h1>
 		</div>
-							  <br><br><br><br><br><br><br><br><br><br><br><br class="hidden-md"><br class="hidden-md">																																								
+							  <br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-md hidden-xs"><br class="hidden-md hidden-xs">																																								
 					
 		</div><!-- End of Side Bar Tab -->
 		
@@ -126,7 +127,7 @@
 		<a href="index.html" title="Elite Remodeling Atlanta"><img src="images/layout/eelite-logo-carterguthrie.com.png" alt="Elite Remodeling Atlanta LLC" class="img-responsive align-center hidden-xs hidden-md hidden-lg"></a>
 		
  		<!-- Networks Side Tab -->
- 		<br>				
+ 		<br class="hidden-xs">				
 		<div class="network-style hidden-xs">
 			<a href="https://www.youtube.com/channel/UCxzi-kopbreOFSzpEZlIctA" title="Elite Remodeling Atlanta LLC" target="_blank"><img src="images/layout/u.png" onmouseover="this.src='images/layout/u2.png'" onmouseout="this.src='images/layout/u.png'"  alt="Elite Remodeling Atlanta LLC" class="img-responsive nav-location" width="30px"></a>
 				
@@ -187,10 +188,10 @@
 			 				<?php include('inc/form.php'); ?>
 		
 		
-	   			<br><br>
+	   			<br class="hidden-xs"><br class="hidden-xs">
 		   		<br class="hidden-xs">
 			
-			 				<img src="images/layout/bathroom.jpg" alt="Elite Remodeling Atlanta" class="img-responsive img-border">
+			 				<img src="images/layout/bathroom.jpg" alt="Elite Remodeling Atlanta" class="img-responsive img-border hidden-xs">
 		
           	    <br><br class="hidden-xs hidden-sm">
           	
