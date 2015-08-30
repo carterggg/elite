@@ -28,6 +28,6 @@
 					<label for="budget">Estimated Budget:</label><?php echo @$message_error; ?>
 					<textarea cols="45" rows="1" id="budget" name="budget" class="required" required><?php echo @$message ?></textarea>
 				</p>
-				<input name="submitted" type="submit" value="Send" />
+				<input name="submitted" type="submit" value="Send"/>
 			</fieldset>
 		</form

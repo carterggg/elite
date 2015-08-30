@@ -86,7 +86,7 @@ if(@$_POST['submitted'])
 		//prepare for sending email
 		$destination		= 	DESTINATION_EMAIL;
 		$subject			= 	MESSAGE_SUBJECT;
-		$body				=	"$name \r\n<br/> $email \r\n<br/> $phone \r\n<br/> $address \r\n<br/> $message \r\n<br/> $startdate \r\n<br/> $budget ";
+		$body				=	"$name \r\n<br/> $email \r\n<br/> $phone \r\n<br/> $address \r\n<br/> $message \r\n<br/> $startdate \r\n<br/> $budget";
 
 		
 		if(mail($destination, $subject, $body, $headers))
@@ -99,7 +99,6 @@ if(@$_POST['submitted'])
 			echo "<br>";
 			echo '<img src="images/layout/eelite-logo-carterguthrie.com.png" class="align-center">';
 			echo "<h2 class='val-style'>Thank You, we will get back to you soon.</h2>";
-			echo "<a href=\"".REDIRECT_URL ."\">Elite Remodeling Atlanta</a>";
 		    echo "<br>";
 			echo "<br>";
 			echo '</div>';
