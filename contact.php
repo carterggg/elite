@@ -16,7 +16,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Elite Remodeling Atlanta LLC. Focused on providing high-quality service and complete customer satisfaction. We Strive to exceed your expectations.">
+<meta name="description" content="Elite Remodeling Atlanta LLC. Focused on providing high-quality services and complete customer satisfaction. We strive to exceed your expectations. Servicing the Buford, Braselton, Dacula, Gainesville, Monroe, Suwanee, Duluth, Gwinnett, Jefferson, Hoschton, Flowery branch, Hall, Lawrenceville, Johns Creek, Alpharetta, Winder, Atlanta, Buckhead, Midtown, and Lake Lanier areas.">
 <title>Elite Remodeling Atlanta LLC: Contact</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
