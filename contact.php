@@ -16,7 +16,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<meta name="description" content="Elite Remodeling Atlanta LLC. Focused on providing high-quality services and complete customer satisfaction. We strive to exceed your expectations. Servicing the Buford, Braselton, Dacula, Gainesville, Monroe, Suwanee, Duluth, Gwinnett, Jefferson, Hoschton, Flowery branch, Hall, Lawrenceville, Johns Creek, Alpharetta, Winder, Atlanta, Buckhead, Midtown, and Lake Lanier areas.">
+<meta name="description" content="Remodeling in Atlanta, GA. Focused on providing high-quality construction and remodeling services and complete customer satisfaction. Buford, Braselton, Suwanee, Johns Creek, Dacula, and Atlanta Area.">
+<meta name="keywords" content="atlanta remodeling, atlanta construction, atlanta remodeling company, atlanta construction company, remodeling atlanta ga, construction company atlanta ga, remodeling, construction, basement remodeling, bathroom remodeling, kitchen remodeling, basements, additions, decks, screen porches, painting, water damage,
+Roofs"/>
+<meta name="author" content="Carter Guthrie carterguthrie.com">
+
+
 <title>Elite Remodeling Atlanta LLC: Contact</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
