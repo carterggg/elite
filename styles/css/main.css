@@ -5,41 +5,21 @@
 */
 /* BASE */
 body {
-  font-family: "arial bold";
+  font-family: "cardobold";
   background-color: #DCC38B;
-  margin: 10px;	
-  border: #FFEFCD 2px solid;
-}
+  border: lightgrey 4px solid;
+  font-weight: 700; }
 
 h1 {
-  font-family: "arial";
-  color: #AF9763; }
-
-h2 {
-  font-family: "arial";
-  color: #AF9763; }
+  font-family: "NK_Monotype Corsiva";
+  color: red; }
 
 p {
-  font-family: "arial";
-   }
+  font-family: "cardobold";
+  font-weight: 700; }
 
-h4 {
-	color: #FFEFCD;
-	font-family: "arial";
-}
-
-h1 a {
-	color: #AF9763;
-}
-
-h1 a:hover {
-	color:#DCC38B;
-}
-
-li {
-	font-family: "arial";
-}
-
+strong {
+  font-weight: 800; }
 
 /* unvisited link */
 a:link {
@@ -67,33 +47,7 @@ a:active {
   padding-top: 5px; }
 
 .white-background {
-  background-color: #FFEFCD;
-  border: 3px solid AF9763;
-  margin: 9px;
-}
-
-.blue-background {
-  background-color: #DCC38B;
-  border: 3px solid #FFEFCD;
-  margin: 0px;
-}
-
-.red-background {
-  background-color: #FFEFCD;
-  border: 3px solid #DCC38B;
-  margin: 0px;
-}
-
-.outside-border {
-	margin: -20px;	
- 
-}
-
-.inside-border {
-	
-	border:0;
- 
-}
+  background-color: white; }
 
 .network-style a {
   float: right; }
@@ -103,20 +57,10 @@ a:active {
   margin-top: 33px; }
 
 .red {
-  background-color: #AF9763; }
+  background-color: red; }
 
 .red-text {
   color: red; }
-
-.locationheader {
-	font-size: 22px;
-	text-align: right;
-}
-
-.appointmentstyle {
-	font-size: 18px;
-	text-align: right;
-}
 
 .title {
   font-size: 30px;
@@ -214,7 +158,9 @@ a:active {
 .main-link-text a:hover {
   color: black; }
 
-
+.footer-slogan {
+  color: white;
+  font-size: 43px; }
 
 .contact-footer {
   float: left; }
@@ -335,37 +281,21 @@ a:active {
   display: block; }
 
 /*Footer Nav Styles */
-
-.nav-header-styles {
-	
-	font-family: "arial";
-	text-align: center;
-}
-
-.contactinfostyle {
-	font-family: "arial";
-	color: #FFEFCD;
-  font-size: 16px;
-}
-
 nav ul li {
-  display: block;
-text-align: left; 
-padding-left: 20px;
-	padding-bottom: 1px;
-border-bottom: 2px solid #FFEFCD;
-font-family: "arial";
-}
+  display: inline; }
 
 .nav-footer ul li a {
-  color: #FFEFCD;
-  font-size: 16px;
- }
+  color: black;
+  font-size: 24px;
+  border-right: 3px solid black;
+  padding-left: 10px;
+  padding-right: 10px; }
 
-
+.nav-footer-border {
+  border-left: 3px solid black; }
 
 .nav-footer ul li a:hover {
-  color: #DCC38B; }
+  color: white; }
 
 .maincontentlayout {
   position: relative; }
@@ -386,13 +316,10 @@ font-family: "arial";
   bottom: 10px; }
 
 /* Nav Styles */
-
-
 .nav-border {
-  background-color: #DCC38B;
-  width:auto;
+  background-color: black;
+  width: 100%;
   height: 50px;
-	padding-left: 50px;
   padding-top: 10px;
   z-index: 10;
   position: relative; }
@@ -423,10 +350,10 @@ ul {
   border-left: none; }
 
 .main-nav a:hover {
-  color: #AF9763; }
+  color: red; }
 
 .main-nav a {
-  color: #FFEFCD;
+  color: white;
   display: block;
   padding: 0px  30px;
   padding-bottom: 0px;
@@ -445,26 +372,26 @@ ul {
 .drop-nav {
   position: absolute;
   display: none;
-  background-color: #AF9763; }
+  background-color: black; }
 
 .drop-nav li {
   font-size: 20px; }
 
 .drop-nav li a {
-  color: #FFEFCD; }
+  color: white; }
 
 .dropdown:hover > .drop-nav {
   display: block; }
 
 .red-hover:hover a {
-  background-color: #AF9763;
-  color: #FFEFCD;
+  background-color: black;
+  color: white;
   padding-top: 5px;
   padding-bottom: 5px;
-  border-bottom: 2px solid #FFEFCD; }
+  border-bottom: 1px solid white; }
 
 .drop-nav li a:hover {
-  background-color: #DCC38B; }
+  background-color: red; }
 
 /* Video EMBed responsive code */
 .responsive-vid {
