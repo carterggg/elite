@@ -11,6 +11,7 @@ body {
   border: #FFEFCD 2px solid;
 }
 
+
 h1 {
   font-family: "arial";
   color: #AF9763; }
@@ -58,6 +59,10 @@ a:active {
   text-decoration: none; }
 
 /* LAYOUT */
+
+.underline-word {
+	text-decoration: underline;
+}
 .align-center {
   margin: auto;
   text-align: center; }
@@ -101,13 +106,63 @@ a:active {
 	color: #AF9763;
 }
 
+.title-location-style {
+	font-family: 'arial';
+	font-size: 1.3em;
+	color: #AF9763;
+	
+}
+
+.title-location-style a {
+	font-family: 'arial';
+	font-size: .9em;
+	color: #AF9763;
+	text-decoration: underline;
+}
+
+.title-location-style a:hover {
+	font-family: 'arial';
+	font-size: .9em;
+	color: #DCC38B;
+	text-decoration: underline;
+}
+
+.marginspace-faq {
+	margin-left: 12px;
+}
+
+.moremarginspace-faq {
+	margin-left: 25px;
+}
+
 .aboutsubheader {
 	font-family: 'arial';
 	font-size: 1.1em;
 	color: #AF9763;
 }
 
-.aboutsubheader:hover {
+.aboutsubheader a {
+	font-family: 'arial';
+	font-size: 1.1em;
+	color: #AF9763;
+	text-decoration: underline;
+}
+
+.aboutsubheader a:hover {
+	font-family: 'arial';
+	font-size: 1.1em;
+	color: #DCC38B;
+	text-decoration: underline;
+}
+
+
+.aboutsubheader-link {
+	font-family: 'arial';
+	font-size: 1.1em;
+	color: #AF9763;
+}
+
+.aboutsubheader-link:hover {
 	font-family: 'arial';
 	font-size: 1.1em;
 	color: #dcc38b; 
@@ -149,6 +204,13 @@ a:active {
 	font-size: 18px;
 	text-align: right;
 }
+
+
+<!--  Table Li code  -->
+
+
+
+
 
 .title {
   font-size: 30px;
@@ -480,7 +542,9 @@ ul {
   background-color: #AF9763; }
 
 .drop-nav li {
-  font-size: 20px; }
+  font-size: 20px;
+width: 150%;
+}
 
 .drop-nav li a {
   color: #FFEFCD; }
