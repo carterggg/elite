@@ -94,11 +94,11 @@ if(@$_POST['submitted'])
 		
 			// test to see if form data is received.
 			echo '<link rel="stylesheet" href="styles/css/main.css">';
-			echo '<link rel="stylesheet" href="stylesheet.css">';
-			echo '<div class="val-background align-center">';
+			echo '<link rel="stylesheet" href="main.css">';
+			echo '<div class="val-color align-center">';
 			echo "<br>";
-			echo '<img src="images/layout/eelite-logo-carterguthrie.com.png" class="align-center">';
-			echo "<h2 class='val-style'>Thank You, we will get back to you soon.</h2>";
+			echo '<img src="images/layout/logo-01.png" class="align-center">';
+			echo "<h2 class='val-style'>Thank You, We will get back to you soon.</h2>";
 		    echo "<br>";
 			echo "<br>";
 			echo '</div>';
