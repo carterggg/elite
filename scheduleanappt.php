@@ -2,10 +2,10 @@
 <?php
 	
 	// * IMPORTANT * Set your email information here
-	define('DESTINATION_EMAIL','carterthedesigner@gmail.com');
+	define('DESTINATION_EMAIL','holyfamilycounselingcenter@gmail.com');
 	define('MESSAGE_SUBJECT','Holy Family Website Form');
-	define('REPLY_TO', 'carterthedesigner@gmail.com');
-	define('FROM_ADDRESS', 'carterthedesigner@gmail.com');
+	define('REPLY_TO', 'holyfamilycounselingcenter@gmail.com');
+	define('FROM_ADDRESS', 'holyfamilycounselingcenter@gmail.com');
 	define('REDIRECT_URL', 'index.html');
 	
 	require_once('validation.php');
@@ -159,7 +159,7 @@ Roofs"/>
         				<a href="#">Contact Us</a>
        	 					<ul class="drop-nav">
           						<li><a href="scheduleanappt.php">Schedule an Appt.</a></li>
-          						<li><a href="locations.html">Locations</a></li>
+          						<li><a href="alllocations.html">Locations</a></li>
           						<li><a href="faq.html">Frequently Asked Questions</a></li>    
         					</ul>
       				</li>
@@ -190,7 +190,7 @@ Roofs"/>
 			
 			
 					<br>
-				<p class="aboutsubheader">To speak to our Intake Coordinator to get more information  or to schedule an appointment, please complete the following information.</p>
+				<p class="aboutsubheader">To speak to our Intake Coordinator to get more information or to schedule an appointment, please call 678-993-8494 or fill out the form by completing the following information below.</p>
 				
 				<div class="container">
             			
@@ -265,7 +265,7 @@ VALUE IN THE FAMILY AS WELL AS THE DIGNITY OF THE INDIVIDUAL.</h1>
 			</div>
 			
 			<div class="col-xs-12 col-sm-3">
-				<a href="programs.html" title="Programs"><img src="images/layout/pg.png" onmouseover="this.src='images/layout/pg2.png'" onmouseout="this.src='images/layout/pg.png'" alt="Programs" class="img-responsive align-center"></a>
+				<a href="forms.html" title="Forms"><img src="images/layout/pg.png" onmouseover="this.src='images/layout/pg2.png'" onmouseout="this.src='images/layout/pg.png'" alt="Programs" class="img-responsive align-center"></a>
 				
 			</div>
 		   <div class="hidden-xs col-sm-1"></div>
@@ -275,7 +275,7 @@ VALUE IN THE FAMILY AS WELL AS THE DIGNITY OF THE INDIVIDUAL.</h1>
 		
 		<div class="row">
 			<div class="col-xs-12 col-sm-5">
-				
+				<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><img src="images/layout/frontdoor.jpg" alt="Holy Family" class="img-responsive align-center" width="90%">
 			</div>
 			
 			<div class="col-xs-12 col-sm-6">
@@ -289,7 +289,8 @@ compromise their personal value system.</p>
 					<p class="aboutsubheader">We provide counseling from a Catholic, Christian perspective for
 couples, individuals and families placing value in the dignity of the
 individual and marriage as well as the family.</p><br>
-				
+			
+				<a href="philosophy.html" title="Our Philosophy"><p class="aboutsubheader-link"><strong><u>- Learn More About Holy Family Counseling Center</u></strong></p></a><br>
 					<a href="ourstaff.html" title="Our Staff"><p class="aboutsubheader-link"><strong><u>- Our Staff</u></strong></p></a><br>
 					<a href="scheduleanappt.php" title="Make An Appointment"><p class="aboutsubheader-link"><strong><u>- Make An Appointment</u></strong></p></a> <br>
 					<a href="faq.html" title="Frequently Asked Questions"><p class="aboutsubheader-link"><strong><u>- Frequently Asked Questions</u></strong></p></a>
