@@ -89,7 +89,7 @@ Roofs"/>
 			</div>
 			
 			<div class="col-xs-12 col-sm-6">
-				<h2 class="hidden-xs hidden-sm appointmentstyle"><strong>Make An Appointment: </strong><br> (678) 993-8494 <br> holyfamilycouncelingcenter@gmail.com</h2>
+				<h2 class="hidden-xs hidden-sm appointmentstyle"><strong>Make An Appointment: </strong><br> <a href="tel:678-993-8494">(678) 993-8494</a> <br> holyfamilycouncelingcenter@gmail.com</h2>
 				<br><br>
 					<h1 class="hidden-xs hidden-sm locationheader">Click <a href="alllocations.html" alt="All Locations"><strong>HERE</strong></a> for All Locations</h1>
 			</div>
@@ -151,8 +151,8 @@ Roofs"/>
       				<li class="dropdown red-hover">
         				<a href="#">Resources</a>
        	 					<ul class="drop-nav">
-          						<li><a href="blog.html">HFCC Blog</a></li>
-          						<li><a href="books.html">Frequently Recommended Books</a></li>    
+          						<li><a href="books.html">Frequently Recommended Books</a></li>             						<li><a href="blog.html">HFCC Blog</a></li>
+
         					</ul>
       				</li>
       				<li class="dropdown red-hover">
@@ -190,7 +190,7 @@ Roofs"/>
 			
 			
 					<br>
-				<p class="aboutsubheader">To speak to our Intake Coordinator to get more information or to schedule an appointment, please call 678-993-8494 or fill out the form by completing the following information below.</p>
+				<p class="aboutsubheader align-center"><strong>To speak to our Intake Coordinator to get more information or to schedule an appointment, please call 678-993-8494 or fill out the form by completing the following information below.</strong></p>
 				
 				<div class="container">
             			
@@ -342,7 +342,7 @@ individual and marriage as well as the family.</p><br>
 				</nav>
 			</div>
 			
-			<div class="col-xs-12 col-sm-5">
+			<div class="col-xs-12 col-sm-4">
 				<h4 class="nav-header-styles">Contact Information</h4><br>
 					<p class="contactinfostyle"><strong>Main Duluth Location</strong>
 					<br>
@@ -358,7 +358,7 @@ individual and marriage as well as the family.</p><br>
 				
 			</div>
 			
-			<div class="col-xs-12 col-sm-3">
+			<div class="col-xs-12 col-sm-4">
 				<h4 class="nav-header-styles">Main Information</h4>
 				<nav class="nav-footer align-center">
 					<ul>

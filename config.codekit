@@ -1,12 +1,48 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "19127",
+"creatorBuild": "19142",
 "files": {
+	"\/alllocations.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/alllocations.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/blog.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/blog.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/faq.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/faq.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/forms.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/forms.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/groups.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/groups.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -77,46 +113,68 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/gallery\/7-21.png": {
+	"\/images\/gallery\/7.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 325324,
-		"inputAbbreviatedPath": "\/images\/gallery\/7-21.png",
-		"outputAbbreviatedPath": "\/images\/gallery\/7-21.png",
+		"initialSize": 754874,
+		"inputAbbreviatedPath": "\/images\/gallery\/7.png",
+		"outputAbbreviatedPath": "\/images\/gallery\/7.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/gallery\/7-22.png": {
+	"\/images\/gallery\/holyfamily-slideshow-23.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 292498,
-		"inputAbbreviatedPath": "\/images\/gallery\/7-22.png",
-		"outputAbbreviatedPath": "\/images\/gallery\/7-22.png",
+		"initialSize": 656329,
+		"inputAbbreviatedPath": "\/images\/gallery\/holyfamily-slideshow-23.png",
+		"outputAbbreviatedPath": "\/images\/gallery\/holyfamily-slideshow-23.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/appointment.png": {
+	"\/images\/gallery\/holyfamily-slideshow-24.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 143256,
-		"inputAbbreviatedPath": "\/images\/layout\/appointment.png",
-		"outputAbbreviatedPath": "\/images\/layout\/appointment.png",
+		"initialSize": 1.88394e+06,
+		"inputAbbreviatedPath": "\/images\/gallery\/holyfamily-slideshow-24.png",
+		"outputAbbreviatedPath": "\/images\/gallery\/holyfamily-slideshow-24.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/appointment2.png": {
+	"\/images\/gallery\/holyfamily-slideshow-25.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 143571,
-		"inputAbbreviatedPath": "\/images\/layout\/appointment2.png",
-		"outputAbbreviatedPath": "\/images\/layout\/appointment2.png",
+		"initialSize": 2.01317e+06,
+		"inputAbbreviatedPath": "\/images\/gallery\/holyfamily-slideshow-25.png",
+		"outputAbbreviatedPath": "\/images\/gallery\/holyfamily-slideshow-25.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/app.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 579644,
+		"inputAbbreviatedPath": "\/images\/layout\/app.png",
+		"outputAbbreviatedPath": "\/images\/layout\/app.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/app2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 579765,
+		"inputAbbreviatedPath": "\/images\/layout\/app2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/app2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -139,6 +197,17 @@
 		"initialSize": 1106,
 		"inputAbbreviatedPath": "\/images\/layout\/f2.png",
 		"outputAbbreviatedPath": "\/images\/layout\/f2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/layout\/frontdoor.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.07826e+06,
+		"inputAbbreviatedPath": "\/images\/layout\/frontdoor.jpg",
+		"outputAbbreviatedPath": "\/images\/layout\/frontdoor.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -297,24 +366,24 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/programs.png": {
+	"\/images\/layout\/pg.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 83087,
-		"inputAbbreviatedPath": "\/images\/layout\/programs.png",
-		"outputAbbreviatedPath": "\/images\/layout\/programs.png",
+		"initialSize": 812954,
+		"inputAbbreviatedPath": "\/images\/layout\/pg.png",
+		"outputAbbreviatedPath": "\/images\/layout\/pg.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/layout\/programs2.png": {
+	"\/images\/layout\/pg2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 80332,
-		"inputAbbreviatedPath": "\/images\/layout\/programs2.png",
-		"outputAbbreviatedPath": "\/images\/layout\/programs2.png",
+		"initialSize": 814238,
+		"inputAbbreviatedPath": "\/images\/layout\/pg2.png",
+		"outputAbbreviatedPath": "\/images\/layout\/pg2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -363,6 +432,358 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/site-photos\/services-imgs\/addiction.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63939,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/addiction.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/addiction.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/angermanagement.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29679,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/angermanagement.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/angermanagement.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/anxiety.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.06162e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/anxiety.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/anxiety.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/careercounseling.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.30812e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/careercounseling.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/careercounseling.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/childrenissues.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.37458e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/childrenissues.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/childrenissues.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/codependency.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 34442,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/codependency.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/codependency.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/depression.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.30296e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/depression.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/depression.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/familyconflicts.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.71250e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/familyconflicts.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/familyconflicts.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/griefandloss.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.34051e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/griefandloss.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/griefandloss.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/internetcompulsions.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35407,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/internetcompulsions.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/internetcompulsions.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/lifetransitions.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 190151,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/lifetransitions.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/lifetransitions.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/marriageenrichment.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 43940,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/marriageenrichment.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/marriageenrichment.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/nutrition.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12861,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/nutrition.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/nutrition.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/parenting.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.95933e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/parenting.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/parenting.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/premaritalcounseling.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 25523,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/premaritalcounseling.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/premaritalcounseling.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/relationshipissues.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.26712e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/relationshipissues.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/relationshipissues.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/selfesteem.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.11944e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/selfesteem.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/selfesteem.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/sexualcompulsions.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22496,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/sexualcompulsions.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/sexualcompulsions.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/socialmediaissues.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 224939,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/socialmediaissues.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/socialmediaissues.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/stress.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49383,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/stress.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/stress.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/teenissues.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.15741e+06,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/teenissues.png",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/teenissues.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/site-photos\/services-imgs\/trauma.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49242,
+		"inputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/trauma.jpg",
+		"outputAbbreviatedPath": "\/images\/site-photos\/services-imgs\/trauma.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/aliciainesdeolano1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.66262e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/aliciainesdeolano1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/aliciainesdeolano1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/billpowers1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.62615e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/billpowers1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/billpowers1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/dianahardy1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.97469e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/dianahardy1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/dianahardy1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/gerrykencrete1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.4679e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/gerrykencrete1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/gerrykencrete1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/irenerowland1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.05519e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/irenerowland1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/irenerowland1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/julieberger1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.02152e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/julieberger1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/julieberger1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/patrickmetts1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3.36599e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/patrickmetts1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/patrickmetts1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/pattidirito1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.94082e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/pattidirito1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/pattidirito1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/peterattridge1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5.23584e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/peterattridge1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/peterattridge1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/staff-photos\/sandymckay1.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2.12686e+06,
+		"inputAbbreviatedPath": "\/images\/staff-photos\/sandymckay1.jpg",
+		"outputAbbreviatedPath": "\/images\/staff-photos\/sandymckay1.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/inc\/form.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -372,11 +793,38 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/inc\/form2.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/form2.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/inc\/form3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/inc\/form3.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/intakeforms.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/intakeforms.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -465,6 +913,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/medicalforms.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/medicalforms.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/oldpages\/about.html": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -537,11 +994,47 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/ourstaff.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/ourstaff.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/philosophy.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/philosophy.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/programsardiocese.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/programsardiocese.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/programsforparishes.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/programsforparishes.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/scheduleanappt.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/scheduleanappt.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
