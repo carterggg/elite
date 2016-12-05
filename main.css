@@ -20,10 +20,22 @@ font-family: "arial";
 
 /* Drop Down Menus */
 
+.navbar-default {
+    background-color: #DCC38B !important; 
+    background: #DCC38B !important; 
+    
+}
+
+
+
+
 .navbar, .navbar-collapse, .navbar-default {
     background-color: #AF9763 !important; 
     font-family: "arial";
 }
+
+
+
 
 .container {
     width: 100%;
@@ -34,15 +46,27 @@ font-family: "arial";
     font-family: "arial";
 }
 
+.dropdown-menu ul li a:hover {
+    color: #DCC38B !important;
+    font-family: "arial";
+    background: #AF9763 !important;
+}
+
+.navbar-nav ul li a:hover {
+    color: #DCC38B !important;
+    font-family: "arial";
+    background: #AF9763 !important;
+}
+
+
+
+
+
 .navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
     font-family: "arial";
     background-color: #DCC38B;
 }
 
-.navbar ul li a {
-    color: #FFEFCD !important;
-    font-family: "arial";
-}
 
 .navbar ul li {
     margin-left: 10px;
@@ -51,7 +75,6 @@ font-family: "arial";
 .dropdown-menu {
     background-color: #AF9763 !important; 
 }
-
 
 
 .dropdown-submenu {
